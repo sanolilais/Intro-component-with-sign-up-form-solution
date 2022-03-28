@@ -1,8 +1,51 @@
 body {
   background-image: url(/intro-component-with-signup-form-master/assets/bg-intro-mobile.png);
+  background-color: var(--color-salmon);
+  width: 375px;
+  height: 776px;
+  margin: 0px;
 }
 
 .description {
   background-color: var(--color-salmon);
+  margin: 50px;
+}
+
+.form {
+  background-color: var(--color-white);
   height: 246px;
+  height: 246px;
+  margin: 50px;
+}
+
+h2 {
+  color: var(--color-white);
+  text-align: center;
+  font-weight: 700;
+  margin: 2px;
+}
+
+.texts {
+  color: var(--color-white);
+  font-family: Poppins;
+}
+
+.text-description {
+  text-align: center;
+  font-size: 14px;
+  font-weight: 560;
+  height: 180px;
+}
+
+.button {
+  background-color: var(--color-coronation-blue);
+  height: 88px;
+}
+
+.text-highlighted {
+  font-weight: 700;
+}
+
+.text-invite {
+  margin: 2px;
 }

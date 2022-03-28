@@ -1,3 +1,6 @@
 :root {
   --color-salmon: hsl(0, 100%, 74%);
+  --color-embarrassment: hsl(2, 99%, 73%);
+  --color-white: hsl(240, 100%, 100%);
+  --color-coronation-blue: hsl(247, 32%, 48%);
 }
