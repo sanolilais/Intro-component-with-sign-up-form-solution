@@ -1,0 +1,8 @@
+body {
+  background-image: url(/intro-component-with-signup-form-master/assets/bg-intro-mobile.png);
+}
+
+.description {
+  background-color: var(--color-salmon);
+  height: 246px;
+}
